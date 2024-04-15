@@ -14,8 +14,10 @@ Syntax:
         python split_fasta.py -i demo.fasta -n 5
 
 split_fasta dependencies:
-	Bio module and SeqIO available in this package          refer to https://biopython.org/wiki/Download
-	tqdm                                                    refer to https://pypi.org/project/tqdm/
+
+Bio module and SeqIO available in this package          refer to https://biopython.org/wiki/Download
+
+tqdm                                                    refer to https://pypi.org/project/tqdm/
 
 Input Paramaters (REQUIRED):
 ----------------------------
